@@ -8,6 +8,13 @@ html{
 
 h1{
   text-align: center;
+  color: hsla(0, 0%, 0%, 0.747);
+}
+
+.main-div{
+  border: 1px dashed red;
+  padding: 20px;
+  border-radius: 15px;
 }
 
 .button-holder{
